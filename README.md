@@ -61,7 +61,7 @@ The AI Nutrition App is designed to offer a seamless user experience for obtaini
 Here are few example of the AI Nutrition App in action:
 
 ### Sample 1
-![Sample 1](Images/img1.png)
+![Sample 1](img1.png)
 
 ### Sample 2
-![Sample 2](Images/img2.png)
+![Sample 2](img2.png)
